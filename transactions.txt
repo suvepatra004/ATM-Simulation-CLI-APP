@@ -1,0 +1,21 @@
+[2025-09-07 22:25:46] Login failed for Account: 12345
+[2025-09-07 22:32:31] New account created | Account: Suvendu | Initial Balance: 10000.0
+[2025-09-07 22:32:47] Login successful for Account: Suvendu
+[2025-09-07 22:32:50] Balance check for Account: Suvendu | Balance: 10000.0
+[2025-09-07 22:32:58] Deposit of 500.0 to Account: Suvendu | Balance: 10500.0
+[2025-09-07 22:33:08] Withdrawal of 3000.0 from Account: Suvendu | Balance: 7500.0
+[2025-09-07 22:33:15] Failed withdrawal of 10000.0 from Account: Suvendu | Insufficient funds
+[2025-09-07 22:33:25] Withdrawal of -9000.0 from Account: Suvendu | Balance: 16500.0
+[2025-09-07 22:39:53] Logout from Account: Suvendu
+2025-09-07 22:42:33 | Suvendu | Balance Inquiry | Amount: ₹0.0 | Balance: ₹16500.0
+2025-09-07 22:42:48 | Suvendu | Deposit | Amount: ₹10000.0 | Balance: ₹26500.0
+2025-09-07 22:42:50 | Suvendu | Balance Inquiry | Amount: ₹0.0 | Balance: ₹26500.0
+2025-09-07 22:43:07 | Suvendu | Withdraw | Amount: ₹9000.0 | Balance: ₹17500.0
+2025-09-07 22:43:12 | Suvendu | Balance Inquiry | Amount: ₹0.0 | Balance: ₹17500.0
+2025-09-07 22:44:00 | Manoh | Balance Inquiry | Amount: ₹0.0 | Balance: ₹9.0E12
+2025-09-07 22:44:14 | Manoh | Withdraw | Amount: ₹8.0E7 | Balance: ₹8.99992E12
+2025-09-07 22:44:21 | Manoh | Withdraw | Amount: ₹9.0E7 | Balance: ₹8.99983E12
+2025-09-07 22:44:33 | Manoh | Withdraw | Amount: ₹8.0E10 | Balance: ₹8.91983E12
+2025-09-07 22:44:41 | Manoh | Withdraw | Amount: ₹1.0E10 | Balance: ₹8.90983E12
+2025-09-07 22:44:47 | Manoh | Withdraw | Amount: ₹8.0E12 | Balance: ₹9.0983E11
+2025-09-07 22:45:51 | Manoh | Withdraw | Amount: ₹4.0E10 | Balance: ₹8.6983E11
